@@ -1,0 +1,14 @@
+(1)Sedan
+(2)Hatchback
+(3)Coupe
+(4)SUV
+(5)Sportscar
+(6)Convertible
+(7)Crossover
+(8)MussleCar
+(9)StationWagon
+(10)PickupTruck
+(11)Jeep
+(12)Microcar
+
+

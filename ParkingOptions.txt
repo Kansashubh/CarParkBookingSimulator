@@ -1,0 +1,4 @@
+(1) Standard $10 per hour and regular price
+(2) Standard $10 per hour but if you park your car between 5 and 10 hours, then you get a fifteen percent discount
+(3) Standard $10 per hour but if you park between 10 and 15 hours, then you get a thirty percent discount
+
